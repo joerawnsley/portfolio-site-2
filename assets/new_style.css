@@ -1,0 +1,15 @@
+* {
+    background-color: lightyellow;
+}
+
+a {
+    background-color: lightgreen;
+}
+
+img {
+        height: 20rem;
+        width: auto;
+        margin: auto;
+        border-radius: 5%;
+        border: thin grey solid
+    }
