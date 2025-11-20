@@ -6,10 +6,22 @@ a {
     background-color: lightgreen;
 }
 
-img {
+img.home {
         height: 20rem;
         width: auto;
         margin: auto;
         border-radius: 5%;
-        border: thin grey solid
+        border: thin grey solid;
+
+
+
     }
+
+img.about {
+    margin: auto;
+    max-width: 80%;
+    max-width: 12rem;
+    max-height: 10rem;
+    float: left;
+    margin-right: 1rem;
+}
